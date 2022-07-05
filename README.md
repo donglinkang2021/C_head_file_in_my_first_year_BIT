@@ -1,0 +1,2 @@
+# C_head_file_in_my_first_year_BIT
+这是我在大一下学期临近期末阶段写的根据所学知识写C语言的一些库
